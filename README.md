@@ -27,4 +27,4 @@ Ao longo deste bootcamp, meu foco é:
 * **Tecnologias:** AWS S3, VS Code, HTML e JavaScript.
 * **Insights:** Neste projeto, adquiri experiência prática com o Amazon S3, entendendo seus casos de uso para hospedagem de sites estáticos. Além de implantar a página na nuvem, apliquei conhecimentos em HTML e JavaScript para adicionar dinamismo e expandir o site com uma nova página, apresentando meus certificados.
 
-![Diagrama de Arquitetura AWS](images/diagrama_ec2_aws.png)
+👩‍💻 **Acesse a página do projeto aqui: [Página do Projeto](https://kellitissot.github.io/website-formacao-aws/)**
